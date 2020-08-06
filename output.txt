@@ -1,0 +1,252 @@
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 2
+
+ ### COURSES ###
+*******************************************************
+
+SR. NO. : 1 =>
+COURSE ID   : 1
+NAME        : Flutter
+DESCRIPTION : A complete course with 10+ Android and iOS Apps
+PRICE       : $899
+PRIVATE     : YES
+
+
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 1
+
+ Enter course name : Python
+ Enter course description : A complete course with 8+ projects includes basics, oops, sql and web scraping
+ Enter course price : 699
+ Is this course private (0 / 1): 1
+*** Course inserted successfully...
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 1j
+
+ INVALID CHOICE (VALID CHOICES ARE 1, 2, 3 & 4)
+
+ Enter your choice : J
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 1
+
+ Enter course name : JavaScript
+ Enter course description : A programming fundamentals in javascript
+ Enter course price : 0
+ Is this course private (0 / 1): 0
+*** Course inserted successfully...
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 2
+
+ ### COURSES ###
+*******************************************************
+
+SR. NO. : 1 =>
+COURSE ID   : 1
+NAME        : Flutter
+DESCRIPTION : A complete course with 10+ Android and iOS Apps
+PRICE       : $899
+PRIVATE     : YES
+
+
+
+SR. NO. : 2 =>
+COURSE ID   : 2
+NAME        : Python
+DESCRIPTION : A complete course with 8+ projects includes basics, oops, sql and web scraping
+PRICE       : $699
+PRIVATE     : YES
+
+
+
+SR. NO. : 3 =>
+COURSE ID   : 3
+NAME        : JavaScript
+DESCRIPTION : A programming fundamentals in javascript
+PRICE       : $0
+PRIVATE     : NO
+
+
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 1
+
+ Enter course name : Dart
+ Enter course description : A dart programming concepts in details with 12+ projects
+ Enter course price : 799
+ Is this course private (0 / 1): 1
+*** Course inserted successfully...
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 3
+
+ Enter course id : 4
+*** Course deleted successfully...
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 3
+
+ Enter course id : ^X
+*** Course deleted successfully...
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 2
+
+ ### COURSES ###
+*******************************************************
+
+SR. NO. : 1 =>
+COURSE ID   : 1
+NAME        : Flutter
+DESCRIPTION : A complete course with 10+ Android and iOS Apps
+PRICE       : $899
+PRIVATE     : YES
+
+
+
+SR. NO. : 2 =>
+COURSE ID   : 2
+NAME        : Python
+DESCRIPTION : A complete course with 8+ projects includes basics, oops, sql and web scraping
+PRICE       : $699
+PRIVATE     : YES
+
+
+
+SR. NO. : 3 =>
+COURSE ID   : 3
+NAME        : JavaScript
+DESCRIPTION : A programming fundamentals in javascript
+PRICE       : $0
+PRIVATE     : NO
+
+
+#######################################################
+
+                :: COURSE MANAGEMENT LAB::
+
+#######################################################
+*******************************************************
+                  :: User Manual ::
+
+                1] Insert a new course
+                2] Show all courses
+                3] Delete a new course
+                4] Exit the lab
+*******************************************************
+
+ Enter your choice : 4
+*******************************************************
+                                        ---Thanking you
